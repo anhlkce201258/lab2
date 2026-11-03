@@ -1,0 +1,34 @@
+//
+//Written by GowinSynthesis
+//Tool Version "V1.9.11.03 Education"
+//Mon Nov  2 21:19:35 2026
+
+//Source file index table:
+//file0 "\C:/Users/anhlk/Downloads/lab2/src/lab2_tb.vhd"
+//file1 "\C:/Users/anhlk/Downloads/lab2/src/lab2.vhd"
+`pragma protect begin_protected
+`pragma protect version="2.3"
+`pragma protect author="default"
+`pragma protect author_info="default"
+`pragma protect encrypt_agent="GOWIN"
+`pragma protect encrypt_agent_info="GOWIN Encrypt Version 2.3"
+
+`pragma protect encoding=(enctype="base64", line_length=76, bytes=256)
+`pragma protect key_keyowner="GOWIN",key_keyname="GWK2023-09",key_method="rsa"
+`pragma protect key_block
+YQZP+EYoQiwxAf3jOO3p89zGd28HOiJ9+6lXWdbG0ShmaD19KryaIQsWXXRqxrThdO62TQG48TLp
+JqGGluDwkR8pcArywiCxIHXWCmsCp+oq7EyF0tGAb8iB1CPX+0ufti/ukz44VvEiZvvTd/QrQG4O
+yKZ4CDkVCFwR3OxZpVpRpzKIQ28OiLcacHmvsFvPOvGKLIANl97dU+88GaMez+Ct4pWI30NI/haV
+qAd+kHFDY/K9aAc9JgcCjF5zmfhyswfWwqBQh8DIFM06rnQE1kjrf9n1HGQunMUf7Xo6ZIvk103Q
+g7Ct6uqPV9XMwFMDCYnzHJ823+Pm/lKwK4DTiw==
+
+`pragma protect encoding=(enctype="base64", line_length=76, bytes=208)
+`pragma protect data_keyowner="default-ip-vendor"
+`pragma protect data_keyname="default-ip-key"
+`pragma protect data_method="aes128-cfb"
+`pragma protect data_block
+ut1eDZeiNk3CqNKzIwSBoLMuxlPIhehdcjc+U6+2c/XEjy0QpuTyehU9bd0bchoM5Nhdll7g5Fab
+ALRSn6hU+elc3H+GLYXNGPh6LCTyFHxv5cDySgVgE2ak/sCTQ47oRJXP1H/nXApIrR11kNJ8KpHk
+H27SQvWTs6v+pVhBka4qMLCqGpk7sfo6ImP1mz4UCYKTmbjFEA0xrkxLtB7FF42UPivibvjaihI8
+no0l3K1UpnBGgNpnNmzvcMuWmnMGLzkcE5RHlLhce6nMsi7Ebg==
+`pragma protect end_protected

@@ -1,0 +1,23 @@
+{
+ "Device" : "GW5A-25A",
+ "Files" : [
+  {
+   "Library" : "work",
+   "Path" : "C:/Users/anhlk/Downloads/lab2/src/lab2.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "C:/Users/anhlk/Downloads/lab2/src/lab2_tb.vhd",
+   "Type" : "vhdl"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "C:/Users/anhlk/Downloads/lab2/impl/temp/rtl_parser.result",
+ "Top" : "Lab02",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}
